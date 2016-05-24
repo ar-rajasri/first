@@ -1,0 +1,56 @@
+Content Management:
+
+1. Here we can manage Static pages like Privacy policy, Terms & Conditions, About us and Contact us page etc...
+
+2. The contents will be reflected in the respective pages in the front end.
+
+
+Make Management:
+
+1. Here we can add, edit, view and delete the Make options.
+ 
+2. Use add ( plus "+" ) button to add the Make
+
+3. Use edit icon to edit the Make
+
+4. Use view icon to view the Make
+
+5. Use delete icon to delete the Make
+
+6. Use leftarrow button goto the previous page.
+
+7. click the search button to display the details.
+
+
+Model Management:
+
+1. Here we can add, edit, view and delete the Model options.
+
+2. Use add ( plus "+" ) button to add the Model.
+
+3. Use edit icon to edit the Model.
+
+4. Use view icon to view the Model.
+
+5. Use delete icon to delete the Model.
+
+6. Use left arrow button goto the previous page.
+
+7. click the search button to display the details.
+
+
+Inventory Management:
+
+1. Here we can add, edit, view and delete the Inventory options.
+
+2. Use add ( plus "+" ) button to add the Inventory.
+
+3. Use edit icon to edit the Inventory.
+
+4. Use view icon to view the Inventory.
+
+5. Use delete icon to delete the Inventory.
+
+6. Use left arrow button goto the previous page.
+
+7. click the search button to display the details.
